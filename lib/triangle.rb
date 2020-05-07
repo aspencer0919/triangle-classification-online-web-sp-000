@@ -7,4 +7,9 @@ class Triangle
     @side_2 = :side_2 .to_i
     @side_3 = :side_3 .to_i
   end
+
+  def kind
+
+  end
 end
+
